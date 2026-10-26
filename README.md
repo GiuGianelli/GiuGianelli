@@ -15,7 +15,7 @@ faster, more reliable, and easier for engineering teams.
 - API Testing with REST Assured
 - BDD with Cucumber
 - E2E and Integration Testing
-- CI/CD with Jenkins and Azure DevOps
+- CI/CD with Jenkins, Azure DevOps, TeamCity and Bamboo.
 - AI-assisted QA workflows and LLM testing
 
 ## 🛠 Tech Stack
